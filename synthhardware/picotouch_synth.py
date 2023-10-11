@@ -2,6 +2,13 @@
 #
 # SPDX-License-Identifier: MIT
 
+"""
+`picotouch_synth`
+================================================================================
+
+Testing out testing for testing the tests
+
+"""
 
 
 def test_func(data, packet_size):
